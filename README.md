@@ -6,6 +6,10 @@ In addition, I will be using Tensorflow instead of the original Theano implement
 
 The edited code can be found in src/implementations.
 
+## To Do
+
+* Add Regularization in Network3.py
+
 ## License
 
 MIT License
