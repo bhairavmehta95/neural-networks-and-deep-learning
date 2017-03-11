@@ -1,5 +1,8 @@
 '''
 Tensorflow implementation of network3.py
+
+Slightly different network architecture than in the book
+
 Not GPU accelrated 
 Network Architecture:
 
